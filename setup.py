@@ -43,7 +43,7 @@ setup(
     install_requires=[
         'click>=7.0',
         'Jinja2>=2.11.1',
-        'Markdown>=3.2.1,<3.4',
+        'Markdown>=3.2.1,<3.9',
         'PyYAML>=5.1',
         'watchdog>=2.0',
         'ghp-import>=1.0',
